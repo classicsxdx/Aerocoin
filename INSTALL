@@ -1,0 +1,9 @@
+Building Aerocoin
+
+See doc/readme-qt.rst for instructions on building Aerocoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Aerocoin.
+
+See doc/build-*.txt for instructions on building Aerocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Aerocoin.
